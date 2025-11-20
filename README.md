@@ -18,8 +18,3 @@ Bu optimize edilmiş model, şirketin hedeflediği %70 yakalama oranına ulaşı
 2.  **Dengesizlik Giderme:** Eğitim verisine **SMOTE** uygulanarak Churn sınıfları dengelendi.
 3.  **Model Optimizasyonu:** Lojistik Regresyon modeli, iş hedefine uygun olarak $0.6187$ eşiği ile ayarlandı.
 
-## 💾 Proje İçeriği
-
-- `musteriAnaliz.py`: Tüm veri işleme, model eğitimi ve değerlendirme kodlarını içerir.
-- `data.csv`: Orijinal veri seti.
-- `models.py`: Eğitilmiş model ve ölçekleyicilerin bulunduğu alandır.
